@@ -1,5 +1,5 @@
 # SBTD
-
+SBTD: a novel method for detecting topological associated domains from Hi-C data
 
 ## 1. Hi-C Data used in this study:
 
